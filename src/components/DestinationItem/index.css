@@ -1,0 +1,9 @@
+/* Write your CSS here */
+img {
+  width: 200px;
+  height: 150px;
+}
+.user-card-container {
+  margin: 25px;
+  flex-wrap: wrap;
+}

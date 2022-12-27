@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.topcard {
+  text-align: center;
+  justify-content: center;
+}
+.bottomcont {
+  width: 80vw;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.bottmClass {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+}
+.icon {
+  width: 15px;
+  height: 10px;
+}
